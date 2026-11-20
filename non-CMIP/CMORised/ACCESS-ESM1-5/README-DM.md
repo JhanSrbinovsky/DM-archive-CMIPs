@@ -1,5 +1,6 @@
 # Experiment(s)
 | Experiment      | ~Size |
+|-----------------|-------|
 |  hist-C         | 618G  |   
 |  hist-CN        | 595G  |    
 |  hist-noluc-C   | 618G  |  
