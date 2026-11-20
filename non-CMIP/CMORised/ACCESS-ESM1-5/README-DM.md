@@ -16,13 +16,13 @@
 `/g/data/p73/archive/CMIP6/non-CMIP/CMORised/ACCESS-ESM1-5/CNP-MIP/<Experiment>`
 
 
-**Archive:**
+## Archive(s)
 
-*mdss* @NCI
+1. *mdss* @NCI
 
-`p73/archive/CMIP6/non-CMIP/CMORised/ACCESS-ESM1-5/CNP-MIP/<Experiment>`
+	`p73/archive/CMIP6/non-CMIP/CMORised/ACCESS-ESM1-5/CNP-MIP/<Experiment>`
 
-*SCOUT-AM* @ petrichor.csiro.au
+2. *SCOUT-AM* @ petrichor.csiro.au
 
 `/datastore/projects/ACCESS/PseudoArchive/CMIP6/non-CMIP/CMORised/ACCESS-ESM1-5/CNP-MIP/<Experiment>`
 
@@ -30,5 +30,5 @@ Note the consistent part, the non-platform-dependent part of the path:
 
 `non-CMIP/CMORised/ACCESS-ESM1-5/CNP-MIP/<Experiment>`
 
-Comments:
+### Comments
 there are archived versions of 1pctCO2-cdr-C & 1pctCO2-cdr-CN that for some (unknown) reason are ~1.5Tb larger than the ones here
