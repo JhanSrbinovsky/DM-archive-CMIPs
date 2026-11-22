@@ -28,9 +28,9 @@
 
       `/datastore/projects/ACCESS/PseudoArchive/CMIP6/non-CMIP/CMORised/ACCESS-ESM1-5/CNP-MIP/<Experiment>`
 
-- [x]  ** temporary copy @ NCI **
+- [x]  ** temporary archive of raw data @ NCI **
 
-      `/scratch/p66/gdata_p73_hold/archive-CMIP6`
+      `/scratch/p66/gdata_p73_hold/archive-CMIP6/non-CMIP/CMORised/ACCESS-ESM1-5/CNP-MIP/<Experiment>`
 
 Note the consistent part, the non-platform-dependent part of the path:
 
