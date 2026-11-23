@@ -38,4 +38,4 @@ Note the consistent part, the non-platform-dependent part of the path:
 
 ## Comments
 
-There are archived versions of 1pctCO2-cdr-C & 1pctCO2-cdr-CN that for some (unknown) reason are ~1.5Tb larger than the ones here
+e.g. There are archived versions of 1pctCO2-cdr-C & 1pctCO2-cdr-CN that for some (unknown) reason are ~1.5Tb larger than the ones here
